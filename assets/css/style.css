@@ -7,3 +7,7 @@ body {
     font-family: 'Fira Sans', sans-serif;
     font-weight: 400;
 }
+
+.swim-lanes {
+    min-height: 60vh;
+}
